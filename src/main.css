@@ -1,0 +1,115 @@
+/* Arquivo CSS */
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    /* largura */
+    width: 300px;
+
+    /* altura */
+    height: 100px;
+
+}
+}
+header{ 
+	background-color: #9163CC;
+	height: 30px;
+	padding: 30px;
+}
+
+div{
+	text-align: center;
+}
+
+p{
+	color: #ffff;
+	text-shadow: 1px 1px 1px #111111;
+	font-size: 15px;
+	text-align: center;
+	font-family: Georgia;
+}
+body{
+	background-color: #1C252C;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica;
+}
+
+footer{
+	clear: both;
+	background-color: white;
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+	font-size: 12px;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+h1{
+	color: white;
+	text-shadow: 1px 1px 1px #111111;
+	text-align: center;
+	margin: 0 0 50px 0;
+}
+footer{
+	clear: both;
+	background-color: purple;
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+	font-size: 12px;
+	text-shadow: 1px 1px 1px #111111
+}
+
+input{
+	margin: center;
+}
+
+label{
+	font-size: 20px;
+	font-family: Lucida Console;
+	color: white;
+  padding: 8px;
+}
+
+/*.class.*/
+.container{
+	width: 960px; 
+	margin: 0 auto;
+
+}
+.btn{
+	display: inline-block;
+  margin-bottom: 0;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  padding: 6px 12px;
+  font-size: 0.5rem;
+  border-radius: 3px;
+  border: 1px solid transparent;
+  text-decoration: none;
+  user-select: none;
+}
+
+.input-number{
+	
+}
+
+.main-card{
+	color: white;
+	font-size: 20px;
+	font-family: Lucida Console;
+}
+
+/*IDS*/
+
+#show-result span{
+	color: white;
+
+}
